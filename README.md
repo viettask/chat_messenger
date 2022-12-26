@@ -1,6 +1,6 @@
-# code_fresher_session1
+# Chat Messenger Techmaster
 
-Code Fresher Session 1
+This is a home assignment 
 
 ## Getting Started
 
